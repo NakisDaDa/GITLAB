@@ -3,5 +3,6 @@ void main()
 {
  
   printf("Nakis");
-  
+  printf("DaDa");
+
 }
