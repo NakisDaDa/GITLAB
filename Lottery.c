@@ -3,5 +3,6 @@ void main()
 {
  
   printf("Nakis");
-  
+  printf("Oshi Cherprang!");
+  printf("Oshi Noey!")
 }
